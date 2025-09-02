@@ -1,0 +1,8 @@
+{
+  "feature_name": "json_test_feature",
+  "title": "JSON Test Feature",
+  "description": "A test feature for JSON storage",
+  "content": "# JSON Test Feature\n\n## Description\nA test feature for JSON storage\n\n## Requirements\nCreate a test PRD\n\nGenerated on: 2025-09-01 10:51:47.214087\n\n## Updated\nThis was updated via JSON!",
+  "created_at": "2025-09-01T10:51:47.214110",
+  "updated_at": "2025-09-01T10:51:47.214433"
+}
